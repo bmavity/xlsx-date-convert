@@ -1,0 +1,26 @@
+{
+  "name": "xlsx-date-convert",
+  "author": "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bmavity/xlsx-date-convert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmavity/xlsx-date-convert/issues"
+  },
+  "contributors": [
+    "Brian Mavity <brian@brianmavity.com> (http://www.brianmavity.com)"
+  ],
+  "description": "Converts JavaScript date strings to XLSX date integer",
+  "dependencies": {
+    "moment": "^2.8.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {},
+  "keywords": [],
+  "license": "mit +no-false-attribs, +no-advertising license",
+  "main": "./xlsx-date-convert.js",
+  "version": "0.0.1"
+}
